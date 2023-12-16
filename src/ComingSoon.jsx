@@ -7,6 +7,8 @@ import {
   UserGroupIcon,
 } from '@heroicons/react/20/solid';
 
+import bg from './bg-melo.webp';
+
 const currentYear = new Date().getFullYear();
 
 const cards = [
@@ -127,7 +129,7 @@ export const ComingSoon = () => {
   return (
     <div className="relative isolate overflow-x-hidden bg-gray-900 py-24 sm:py-32 w-full h-full lg:h-screen">
       <img
-        src="https://source.unsplash.com/music-room-with-lights-turned-on-gUK3lA3K7Yo"
+        src={bg}
         alt="Room full of students"
         className="absolute inset-0 -z-10 w-full h-full object-cover opacity-25"
       />
