@@ -4,7 +4,7 @@ Discover the ultimate social network tailored for audio enthusiasts. Melocue bri
 
 Melocue is comprise of several repos:
 
-Landing Page - [https://melocue.com/](https://melocue.com/)
+Landing Page (this repo) - [https://github.com/charleslaot/melocue](https://github.com/charleslaot/melocue)
 
 Frontend - [https://github.com/charleslaot/melocue-web](https://github.com/charleslaot/melocue-web)
 
@@ -12,16 +12,19 @@ Backend - [https://github.com/charleslaot/melocue-api](https://github.com/charle
 
 Legacy (Code to integrate) - [https://github.com/charleslaot/melocue-legacy](https://github.com/charleslaot/melocue-legacy)
 
-## Demo
 
-Project is currently live, regular builds are pushed weekly, you can check the live app here:
+## Landing Page
+
+[https://melocue.com](https://melocue.com)
+
+## Appplication Demo
 
 [https://app.melocue.com](https://app.melocue.com)
 
 
 ## Contributing
 
-Contributions are always welcome!
+Contributions are always welcome !!!
 
 See `contributing.md` for ways to get started.
 
