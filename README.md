@@ -34,10 +34,3 @@ Please adhere to this project's `code of conduct`.
 ## Authors
 
 - [@charleslaot](https://www.github.com/charleslaot)
-
-
-## License
-
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://github.com/charleslaot/melocue?tab=GPL-3.0-1-ov-file)
-
-
