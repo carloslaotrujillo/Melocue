@@ -7,8 +7,6 @@ import {
   UserGroupIcon,
 } from '@heroicons/react/20/solid';
 
-import bg from './bg-melo.webp';
-
 const currentYear = new Date().getFullYear();
 
 const cards = [
@@ -146,12 +144,7 @@ const navigation = [
 
 export const ComingSoon = () => {
   return (
-    <div className="relative isolate overflow-x-hidden bg-gray-900 py-24 sm:py-32 w-full h-full lg:h-screen">
-      <img
-        src={bg}
-        alt="Room full of students"
-        className="absolute inset-0 -z-10 w-full h-full object-cover opacity-25"
-      />
+    <div className="relative isolate overflow-x-hidden py-24 sm:py-32 w-full h-full lg:h-screen">
       <div className="hidden sm:absolute sm:-top-10 sm:right-1/2 sm:-z-10 sm:mr-10 sm:block sm:transform-gpu sm:blur-3xl">
         <div
           className="aspect-[1097/845] w-[68.5625rem] bg-gradient-to-tr from-[#ff4694] to-[#776fff] opacity-20"
